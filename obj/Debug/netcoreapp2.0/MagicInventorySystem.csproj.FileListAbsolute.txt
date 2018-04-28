@@ -1,0 +1,11 @@
+/Users/toan/Documents/Uni/2018/Web/assignments/Assignment2/MagicInventorySystem/MagicInventorySystem/bin/Debug/netcoreapp2.0/MagicInventorySystem.deps.json
+/Users/toan/Documents/Uni/2018/Web/assignments/Assignment2/MagicInventorySystem/MagicInventorySystem/bin/Debug/netcoreapp2.0/MagicInventorySystem.runtimeconfig.json
+/Users/toan/Documents/Uni/2018/Web/assignments/Assignment2/MagicInventorySystem/MagicInventorySystem/bin/Debug/netcoreapp2.0/MagicInventorySystem.runtimeconfig.dev.json
+/Users/toan/Documents/Uni/2018/Web/assignments/Assignment2/MagicInventorySystem/MagicInventorySystem/bin/Debug/netcoreapp2.0/MagicInventorySystem.dll
+/Users/toan/Documents/Uni/2018/Web/assignments/Assignment2/MagicInventorySystem/MagicInventorySystem/bin/Debug/netcoreapp2.0/MagicInventorySystem.pdb
+/Users/toan/Documents/Uni/2018/Web/assignments/Assignment2/MagicInventorySystem/MagicInventorySystem/obj/Debug/netcoreapp2.0/MagicInventorySystem.csproj.CoreCompileInputs.cache
+/Users/toan/Documents/Uni/2018/Web/assignments/Assignment2/MagicInventorySystem/MagicInventorySystem/obj/Debug/netcoreapp2.0/MagicInventorySystem.AssemblyInfoInputs.cache
+/Users/toan/Documents/Uni/2018/Web/assignments/Assignment2/MagicInventorySystem/MagicInventorySystem/obj/Debug/netcoreapp2.0/MagicInventorySystem.AssemblyInfo.cs
+/Users/toan/Documents/Uni/2018/Web/assignments/Assignment2/MagicInventorySystem/MagicInventorySystem/obj/Debug/netcoreapp2.0/MagicInventorySystem.dll
+/Users/toan/Documents/Uni/2018/Web/assignments/Assignment2/MagicInventorySystem/MagicInventorySystem/obj/Debug/netcoreapp2.0/MagicInventorySystem.pdb
+/Users/toan/Documents/Uni/2018/Web/assignments/Assignment2/MagicInventorySystem/MagicInventorySystem/obj/Debug/netcoreapp2.0/MagicInventorySystem.csprojResolveAssemblyReference.cache
